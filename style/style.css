@@ -1,0 +1,57 @@
+.wrapper {
+    background-color: #e1d3d3;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    position: relative;
+}
+
+.artwork {
+    max-width: 400px;
+    max-height: 300px;
+}
+
+.gothic__eyeglasses {
+    position: absolute;
+    width: 49px;
+    height: 18px;
+    margin-top: -239px;
+    margin-left: 226px;
+}
+
+.gothic--done {
+    background-color: #2cc49160;
+}
+
+.gothic__medallion {
+    position: absolute;
+    width: 10px;
+    height: 13px;
+    margin-top: -140px;
+    margin-left: 137px;
+}
+
+.gothic__pocket {
+    position: absolute;
+    width: 35px;
+    height: 48px;
+    margin-top: -124px;
+    margin-left: 234px;
+}
+
+.list--undisplayed {
+    display: none;
+}
+
+.win--undisplayed {
+    display: none;
+}
+
+/* .gothic__ {
+    background-color: #2cc49160;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+} */
